@@ -1,4 +1,4 @@
-# **Runnerz**
+# **Runnerz** 
 
 **Runnerz – A Spring Boot 3 web application for tracking and saving user runs.** Implements full **CRUD operations** with **REST APIs**, using **HikariCP** and an **in-memory database** for development, and **PostgreSQL via Docker** in production.
 
@@ -37,3 +37,9 @@ Data is stored in **PostgreSQL**, ensuring reliable persistence.
 • **GET /runs:** Retrieve all run records.  
 • **PUT /runs/{id}:** Update an existing run record.  
 • **DELETE /runs/{id}:** Delete a specific run record.  
+
+
+
+![image](https://github.com/user-attachments/assets/df52a42f-90c9-4bdc-83f9-e337877afd45)
+
+![image](https://github.com/user-attachments/assets/4745ef0e-51a1-468d-bedd-af07bb348075)
