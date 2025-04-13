@@ -40,6 +40,4 @@ Data is stored in **PostgreSQL**, ensuring reliable persistence.
 
 
 
-![image](https://github.com/user-attachments/assets/df52a42f-90c9-4bdc-83f9-e337877afd45)
-
 ![image](https://github.com/user-attachments/assets/4745ef0e-51a1-468d-bedd-af07bb348075)
